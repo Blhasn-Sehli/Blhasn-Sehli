@@ -1,6 +1,6 @@
 <h1>💁Marhbe Bik </h1>
 <h2 align="left">Hi 👋! My name is. MpK and I'm a junior Full Stack Js developer</h2>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 ###
 
 <div align="center">
