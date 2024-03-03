@@ -8,13 +8,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Blhasn-Sehli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-<h3 align="center">Statistics</h3>
-<div align="center">
-    <a href="#">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blhasn-Sehli&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
-</div>
+
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/c8/0d/5a/c80d5a2d2e1504e84a9d98f3cb825442.gif"  />
 
