@@ -1,42 +1,80 @@
 <h1>💁Welcome </h1>
+<h1 align="center">Hello!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>, I'm Bellhassen Sehli</h1>
+<!-- Capsule Render Header -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<!-- Social Links and Badges -->
+<div align="left">
+  <a href="https://github.com/Blhasn-Sehli">
+    <img src="https://komarev.com/ghpvc/?username=Blhasn-Sehli&label=Profile%20views&color=0e75b6&style=flat" alt="zied-snoussi"/>
+  </a>
+  <a href="https://www.map.org.uk">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/640px-Flag_of_Palestine.svg.png" alt="Support Palestine" height="20px">
+  </a>
+  <a href="https://github.com/Blhasn-Sehli">
+    <img src="https://img.shields.io/github/followers/Blhasn-Sehli?label=Follow&style=social" alt="Blhasn-Sehli" />
+  </a>
+    <a href="https://user-badge.committers.top/tunisia_private/zied-snoussi">
+    <img src="https://user-badge.committers.top/tunisia_private/Blhasn-Sehli.svg" alt="Blhasn-Sehli" />
+  </a>
+  <a href="https://www.linkedin.com/in/bellhassen-sehli-276419217/">
+    <img align="right" width="20px" src="https://cdn.simpleicons.org/linkedin"  />
+  </a>
+  <a href="https://twitter.com/bellhassen-sehli">
+    <img align="right" width="20px" src="https://cdn.simpleicons.org/twitter" />
+  </a>
+  <a href="https://www.facebook.com/Mpk.ishere/">
+    <img align="right" width="20px" src="https://cdn.simpleicons.org/facebook" />
+  </a>
+  <a href="mailto:sehlibellhassen@gmail.com">
+    <img align="right" width="20px" src="https://cdn.simpleicons.org/gmail" />
+  </a>
+</div>
 <h2 align="left">Hi 👋! My name is. Bellhassen Sehli and I'm a junior Full Stack Js developer</h2>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
+<!-- Statistics Section -->
+<h3 align="center">Statistics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Blhasn-Sehli&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Blhasn-Sehli&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+    <a href="#">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blhasn-Sehli&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    </a>
+</div>
+
+<!-- Technology Stack Section -->
+<h3 align="center">My Stack</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,redux,express,nodejs,typescript,javascript,tailwindcss,prisma,postgres,mongodb" alt="react,next,redux,express,nodejs,typescript,javascript,tailwindcss,prisma,postgres,mongodb"/>
 </div>
 
 
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/c8/0d/5a/c80d5a2d2e1504e84a9d98f3cb825442.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg" height="30" alt="jasmine logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="30" alt="mocha logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+<!-- Environment Section -->
+<h3 align="center">My Environment</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,vscode,linux,vercel,postman,docker,bash,ai,github" alt="git,vscode,linux,vercel,postman,docker,bash,ai,github"/>
 </div>
 
-###
+<!-- Languages and Other Knowledge Section -->
+<h3 align="center">Languages and Other Knowledge</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,latex,jquery,mysql,selenium,blender,bootstrap,c,eclipse,flask,grafana,html,idea,md,,maven,nestjs,nginx,ps,php,powershell,pr,py,regex,sqlite,stackoverflow,threejs,unity" alt="java,python,latex,jquery,mysql,selenium,blender,bootstrap,c,eclipse,flask,grafana,html,idea,md,,maven,nestjs,nginx,ps,php,powershell,pr,py,regex,sqlite,stackoverflow,threejs,unity"/>
+</div>
+
+<!-- GitHub Streak Section -->
+<h2 align="center">GitHub Streak</h2>
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Blhasn-Sehli&theme=dark-smoky&background=000000" alt="github streak"/>
+</p>
+
+
+<!-- GitHub Trophies Section -->
+<h2 align="center">GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Blhasn-Sehli&theme=onestar&row=1" alt="github trophies"/>
+</p>
+
+<!-- Bottom Header -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />###
 
 <div align="left">
   <a href="https://www.instagram.com/bellhassen_sehli_/" target="_blank">
@@ -49,11 +87,3 @@
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-
-
-###
