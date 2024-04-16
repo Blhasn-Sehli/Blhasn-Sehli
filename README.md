@@ -73,5 +73,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Blhasn-Sehli&theme=onestar&row=1" alt="github trophies"/>
 </p>
 
+<!-- Others Badges -->
+<a href="https://app.daily.dev/mpk"><img src="https://api.daily.dev/devcards/v2/vVN7Ob8RoDytpDhVO60Sh.png?r=73s&type=default" width="356" alt="MpK's Dev Card"/></a>
+
 <!-- Bottom Header -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
