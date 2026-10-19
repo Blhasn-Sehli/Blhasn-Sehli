@@ -8,8 +8,8 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/●_Open_to_work-PFE_internship-39d353?style=for-the-badge&labelColor=0d1117" alt="Open to work"/>
-<img src="https://img.shields.io/badge/●_Freelancing-@_VamiSec-00e5ff?style=for-the-badge&labelColor=0d1117" alt="Freelancing at VamiSec"/>
+<a href="mailto:sehlibellhassen@gmail.com?subject=PFE%20internship%20%2F%20opportunity"><img src="https://img.shields.io/badge/●_Open_to_work-PFE_internship-39d353?style=for-the-badge&labelColor=0d1117" alt="Open to work"/></a>
+<a href="https://vamisec.com/en"><img src="https://img.shields.io/badge/●_Freelancing-@_VamiSec-00e5ff?style=for-the-badge&labelColor=0d1117" alt="Freelancing at VamiSec"/></a>
 <a href="https://www.belhasnsehli.me/"><img src="https://img.shields.io/badge/🌐_Portfolio-belhasnsehli.me-ff4081?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/></a>
 
 <br/><br/>
