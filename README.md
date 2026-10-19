@@ -10,7 +10,7 @@
 
 <img src="https://img.shields.io/badge/●_Open_to_work-PFE_internship-39d353?style=for-the-badge&labelColor=0d1117" alt="Open to work"/>
 <img src="https://img.shields.io/badge/●_Freelancing-@_VamiSec-00e5ff?style=for-the-badge&labelColor=0d1117" alt="Freelancing at VamiSec"/>
-<a href="https://bellhassen.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-bellhassen.dev-ff4081?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/></a>
+<a href="https://www.belhasnsehli.me/"><img src="https://img.shields.io/badge/🌐_Portfolio-belhasnsehli.me-ff4081?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/></a>
 
 <br/><br/>
 
@@ -34,7 +34,7 @@ Name         : Bellhassen Sehli (aka MpK)
 Role         : Full-Stack JS Developer
 Studying     : Computer Engineering @ ISI Ariana (final year)
 Based_in     : Tunisia 🇹🇳
-Website      : https://bellhassen.dev
+Website      : https://www.belhasnsehli.me/
 Stack        : NestJS · Next.js · MongoDB · TypeScript
 Freelancing  : @ VamiSec (remote, part-time)
 Seeking      : Final-year internship (PFE) — Full-Stack / Web or AI
@@ -48,7 +48,7 @@ Vibe         : Engineer · Gamer · Hacker
 $ git status
 ● Open to work        → PFE internship, Web & AI roles
 ● Freelancing         → VamiSec GmbH, remote
-● Building            → bellhassen.dev (portfolio)
+● Building            → belhasnsehli.me (portfolio)
 ```
 
 ### 🧰 ~/Stack
@@ -96,7 +96,7 @@ $ git status
 
 ```text
 $ ping bellhassen
-> Website  : https://bellhassen.dev
+> Website  : https://www.belhasnsehli.me/
 > Email    : sehlibellhassen@gmail.com
 > LinkedIn : /in/bellhassen-sehli-276419217
 > Status   : online ✅ - open to work, ready to build something
