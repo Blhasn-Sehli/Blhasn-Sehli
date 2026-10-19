@@ -1,78 +1,105 @@
-<h1>💁Welcome </h1>
-<h1 align="center">Hello!  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"/>, I'm Bellhassen Sehli</h1>
-<!-- Capsule Render Header -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
-<!-- Social Links and Badges -->
-<div align="left">
-  <a href="https://github.com/Blhasn-Sehli">
-    <img src="https://komarev.com/ghpvc/?username=Blhasn-Sehli&label=Profile%20views&color=0e75b6&style=flat" alt="zied-snoussi"/>
-  </a>
-  <a href="https://www.map.org.uk">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Flag_of_Palestine.svg/640px-Flag_of_Palestine.svg.png" alt="Support Palestine" height="20px">
-  </a>
-  <a href="https://github.com/Blhasn-Sehli">
-    <img src="https://img.shields.io/github/followers/Blhasn-Sehli?label=Follow&style=social" alt="Blhasn-Sehli" />
-  </a>
-    <a href="https://user-badge.committers.top/tunisia_private/zied-snoussi">
-    <img src="https://user-badge.committers.top/tunisia_private/Blhasn-Sehli.svg" alt="Blhasn-Sehli" />
-  </a>
-  <a href="https://www.linkedin.com/in/bellhassen-sehli-276419217/">
-    <img align="right" width="20px" src="https://cdn.simpleicons.org/linkedin"  />
-  </a>
-  <a href="https://twitter.com/bellhassen-sehli">
-    <img align="right" width="20px" src="https://cdn.simpleicons.org/twitter" />
-  </a>
-  <a href="https://www.facebook.com/Mpk.ishere/">
-    <img align="right" width="20px" src="https://cdn.simpleicons.org/facebook" />
-  </a>
-  <a href="mailto:sehlibellhassen@gmail.com">
-    <img align="right" width="20px" src="https://cdn.simpleicons.org/gmail" />
-  </a>
-</div>
-<h2 align="left">Hi 👋! My name is. Bellhassen Sehli and I'm a junior Full Stack Js developer</h2>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- Statistics Section -->
-<h3 align="center">Statistics</h3>
 <div align="center">
-    <a href="#">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blhasn-Sehli&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-    </a>
+
+<img src="./assets/name.svg" width="100%" alt="Bellhassen Sehli — Engineer / Gamer / Hacker"/>
+
+<a href="https://github.com/Blhasn-Sehli"><img src="https://hits.sh/github.com/Blhasn-Sehli.svg?style=flat-square&label=views&color=39d353&labelColor=0d1117" alt="views"/></a>
+<a href="https://github.com/Blhasn-Sehli?tab=followers"><img src="https://img.shields.io/github/followers/Blhasn-Sehli?label=Followers&style=flat-square&color=39d353&labelColor=0d1117" alt="followers"/></a>
+<a href="https://www.map.org.uk"><img src="https://img.shields.io/badge/Free-Palestine-39d353?style=flat-square&labelColor=0d1117" alt="Free Palestine"/></a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/●_Open_to_work-PFE_internship-39d353?style=for-the-badge&labelColor=0d1117" alt="Open to work"/>
+<img src="https://img.shields.io/badge/●_Freelancing-@_VamiSec-00e5ff?style=for-the-badge&labelColor=0d1117" alt="Freelancing at VamiSec"/>
+<a href="https://bellhassen.dev"><img src="https://img.shields.io/badge/🌐_Portfolio-bellhassen.dev-ff4081?style=for-the-badge&labelColor=0d1117" alt="Portfolio"/></a>
+
+<br/><br/>
+
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=%24+whoami;Bellhassen+Sehli+%28MpK%29;Full-Stack+Developer+%7C+AI+curious;Freelancing+%40+VamiSec;Seeking+a+PFE+internship+%E2%80%94+Web+%26+AI;Open+to+work+%F0%9F%9A%80" alt="typing"/></a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/bellhassen-sehli-276419217/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="36" alt="LinkedIn"/></a>
+<a href="https://www.facebook.com/Mpk.ishere/"><img src="https://skillicons.dev/icons?i=facebook&theme=dark" height="36" alt="Facebook"/></a>
+<a href="mailto:sehlibellhassen@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" height="36" alt="Email"/></a>
+
 </div>
 
-<!-- Technology Stack Section -->
-<h3 align="center">My Stack</h3>
+---
+
+### 👤 ~/About
+
+```text
+$ cat about.txt
+Name         : Bellhassen Sehli (aka MpK)
+Role         : Full-Stack JS Developer
+Studying     : Computer Engineering @ ISI Ariana (final year)
+Based_in     : Tunisia 🇹🇳
+Website      : https://bellhassen.dev
+Stack        : NestJS · Next.js · MongoDB · TypeScript
+Freelancing  : @ VamiSec (remote, part-time)
+Seeking      : Final-year internship (PFE) — Full-Stack / Web or AI
+Open_to      : Tunisia · Abroad · Remote
+Vibe         : Engineer · Gamer · Hacker
+```
+
+### 🟢 ~/Status
+
+```text
+$ git status
+● Open to work        → PFE internship, Web & AI roles
+● Freelancing         → VamiSec GmbH, remote
+● Building            → bellhassen.dev (portfolio)
+```
+
+### 🧰 ~/Stack
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,redux,express,nodejs,typescript,javascript,tailwindcss,prisma,postgres,mongodb,flutter,sequelize,bootstrap,firebase" alt="react,next,redux,express,nodejs,typescript,javascript,tailwindcss,prisma,postgres,mongdb,sql,mongoose,sequelize,boostrap,react-native"/>
+
+**💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,c,php,html,css&theme=dark" alt="languages"/>
+
+**⚙️ Frameworks & Libraries**
+
+<img src="https://skillicons.dev/icons?i=react,next,nestjs,nodejs,express,redux,tailwind,bootstrap,flask,flutter,threejs&theme=dark" alt="frameworks"/>
+
+**🗄️ Databases & ORMs**
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,sqlite,prisma,firebase&theme=dark" alt="databases"/>
+
+**🛠️ Tools & Environment**
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,docker,nginx,vercel,postman,vscode,latex,blender,unity&theme=dark" alt="tools"/>
+
 </div>
 
+### 📊 ~/Stats
 
-<!-- Environment Section -->
-<h3 align="center">My Environment</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode,linux,vercel,postman,docker,bash,ai,github" alt="git,vscode,linux,vercel,postman,docker,bash,ai,github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Blhasn-Sehli&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blhasn-Sehli&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="top langs"/>
+
+<img src="https://streak-stats.demolab.com?user=Blhasn-Sehli&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="streak"/>
+
 </div>
 
-<!-- Languages and Other Knowledge Section -->
-<h3 align="center">Languages and Other Knowledge</h3>
+### 🧊 ~/Contributions
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,latex,jquery,mysql,selenium,blender,bootstrap,c,eclipse,flask,grafana,html,idea,md,,maven,nestjs,nginx,ps,php,powershell,pr,py,regex,sqlite,stackoverflow,threejs,unity" alt="java,python,latex,jquery,mysql,selenium,blender,bootstrap,c,eclipse,flask,grafana,html,idea,md,,maven,nestjs,nginx,ps,php,powershell,pr,py,regex,sqlite,stackoverflow,threejs,unity"/>
+
+<img width="100%" src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph"/>
+
 </div>
 
-<!-- GitHub Streak Section -->
-<h2 align="center">GitHub Streak</h2>
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Blhasn-Sehli&theme=dark-smoky&background=000000" alt="github streak"/>
-</p>
+### 📬 ~/Contact
 
+```text
+$ ping bellhassen
+> Website  : https://bellhassen.dev
+> Email    : sehlibellhassen@gmail.com
+> LinkedIn : /in/bellhassen-sehli-276419217
+> Status   : online ✅ - open to work, ready to build something
+```
 
-
-<!-- GitHub Trophies Section -->
-<h2 align="center">GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Blhasn-Sehli&theme=onestar&row=1" alt="github trophies"/>
-</p>
-
-<!-- Bottom Header -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=39d353&height=60&section=footer" alt="footer"/>
