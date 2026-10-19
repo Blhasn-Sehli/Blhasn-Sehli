@@ -84,6 +84,14 @@ $ git status
 
 </div>
 
+### 🏆 ~/Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Blhasn-Sehli&theme=matrix&no-bg=true&no-frame=true&row=1&column=7&margin-w=12&margin-h=8" alt="GitHub trophies"/>
+
+</div>
+
 ### 🧊 ~/Contributions
 
 <div align="center">
