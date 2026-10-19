@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=%24+whoami;Bellhassen+Sehli+%28MpK%29;Full-Stack+Developer+%7C+AI+curious;Freelancing+%40+VamiSec;Seeking+a+PFE+internship+%E2%80%94+Web+%26+AI;Open+to+work+%F0%9F%9A%80" alt="typing"/></a>
+<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=700&lines=%24+whoami;Bellhassen+Sehli+%28MpK%29;Full-Stack+Developer+%7C+AI+curious;Freelancing+%40+VamiSec;Seeking+a+PFE+internship+%E2%80%94+Web+%26+AI;Open+to+work+%F0%9F%9A%80" height="50" alt="typing"/></a>
 
 <br/>
 
@@ -80,7 +80,7 @@ $ git status
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Blhasn-Sehli&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&icon_color=39d353&text_color=c9d1d9" alt="stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blhasn-Sehli&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9" alt="top langs"/>
 
-<img src="https://streak-stats.demolab.com?user=Blhasn-Sehli&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=Blhasn-Sehli&theme=github-dark-blue&hide_border=true&background=0d1117&ring=39d353&fire=39d353&currStreakLabel=39d353" width="495" height="195" alt="streak"/>
 
 </div>
 

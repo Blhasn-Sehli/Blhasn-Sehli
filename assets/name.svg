@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="860" height="190" viewBox="0 0 860 190" role="img" aria-label="Bellhassen Sehli">
-<style>.l{animation:bob 1.5s cubic-bezier(.45,0,.55,1) infinite;will-change:transform}.a{animation:acc 3.5s ease-in-out infinite}@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}@keyframes acc{0%,100%{fill:#39d353}50%{fill:#00e5ff}}</style>
+<style>.l{animation:bob 1.5s cubic-bezier(.45,0,.55,1) infinite,pop .6s ease-out both;will-change:transform}.f{animation:pop .8s ease-out .9s both}.a{animation:acc 3.5s ease-in-out infinite}@keyframes pop{from{opacity:0}to{opacity:1}}@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}@keyframes acc{0%,100%{fill:#39d353}50%{fill:#00e5ff}}</style>
 <defs><filter id="glow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="blur"><feGaussianBlur stdDeviation="6"/></filter></defs>
-<ellipse cx="430.0" cy="143" rx="376.0" ry="9" fill="#39d353" opacity="0.18" filter="url(#blur)"/>
-<g class="l" style="animation-delay:-0.00s">
+<ellipse class="f" cx="430.0" cy="143" rx="376.0" ry="9" fill="#39d353" opacity="0.18" filter="url(#blur)"/>
+<g class="l" style="animation-delay:-0.00s,0.00s">
 <text x="85.3" y="112.8" font-size="80" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#14501f">B</text>
 <text x="84.0" y="111.5" font-size="80" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#14501f">B</text>
 <text x="82.7" y="110.2" font-size="80" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#14501f">B</text>
@@ -12,7 +12,7 @@
 <text class="a" x="77.5" y="105" font-size="80" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#39d353">B</text>
 <text x="76.5" y="104" font-size="80" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1">B</text>
 </g>
-<g class="l" style="animation-delay:-0.09s">
+<g class="l" style="animation-delay:-0.09s,0.05s">
 <text x="132.3" y="112.8" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">e</text>
 <text x="131.0" y="111.5" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">e</text>
 <text x="129.7" y="110.2" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">e</text>
@@ -22,7 +22,7 @@
 <text x="124.5" y="105" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#e6edf3">e</text>
 <text x="123.5" y="104" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1">e</text>
 </g>
-<g class="l" style="animation-delay:-0.18s">
+<g class="l" style="animation-delay:-0.18s,0.10s">
 <text x="179.3" y="112.8" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">l</text>
 <text x="178.0" y="111.5" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">l</text>
 <text x="176.7" y="110.2" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">l</text>
@@ -32,7 +32,7 @@
 <text x="171.5" y="105" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#e6edf3">l</text>
 <text x="170.5" y="104" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1">l</text>
 </g>
-<g class="l" style="animation-delay:-0.27s">
+<g class="l" style="animation-delay:-0.27s,0.15s">
 <text x="226.3" y="112.8" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">l</text>
 <text x="225.0" y="111.5" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">l</text>
 <text x="223.7" y="110.2" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">l</text>
@@ -42,7 +42,7 @@
 <text x="218.5" y="105" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#e6edf3">l</text>
 <text x="217.5" y="104" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1">l</text>
 </g>
-<g class="l" style="animation-delay:-0.36s">
+<g class="l" style="animation-delay:-0.36s,0.20s">
 <text x="273.3" y="112.8" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">h</text>
 <text x="272.0" y="111.5" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">h</text>
 <text x="270.7" y="110.2" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">h</text>
@@ -52,7 +52,7 @@
 <text x="265.5" y="105" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#e6edf3">h</text>
 <text x="264.5" y="104" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1">h</text>
 </g>
-<g class="l" style="animation-delay:-0.45s">
+<g class="l" style="animation-delay:-0.45s,0.25s">
 <text x="320.3" y="112.8" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">a</text>
 <text x="319.0" y="111.5" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">a</text>
 <text x="317.7" y="110.2" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">a</text>
@@ -62,7 +62,7 @@
 <text x="312.5" y="105" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#e6edf3">a</text>
 <text x="311.5" y="104" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1">a</text>
 </g>
-<g class="l" style="animation-delay:-0.54s">
+<g class="l" style="animation-delay:-0.54s,0.30s">
 <text x="367.3" y="112.8" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">s</text>
 <text x="366.0" y="111.5" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">s</text>
 <text x="364.7" y="110.2" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">s</text>
@@ -72,7 +72,7 @@
 <text x="359.5" y="105" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#e6edf3">s</text>
 <text x="358.5" y="104" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1">s</text>
 </g>
-<g class="l" style="animation-delay:-0.63s">
+<g class="l" style="animation-delay:-0.63s,0.35s">
 <text x="414.3" y="112.8" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">s</text>
 <text x="413.0" y="111.5" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">s</text>
 <text x="411.7" y="110.2" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">s</text>
@@ -82,7 +82,7 @@
 <text x="406.5" y="105" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#e6edf3">s</text>
 <text x="405.5" y="104" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1">s</text>
 </g>
-<g class="l" style="animation-delay:-0.72s">
+<g class="l" style="animation-delay:-0.72s,0.40s">
 <text x="461.3" y="112.8" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">e</text>
 <text x="460.0" y="111.5" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">e</text>
 <text x="458.7" y="110.2" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">e</text>
@@ -92,7 +92,7 @@
 <text x="453.5" y="105" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#e6edf3">e</text>
 <text x="452.5" y="104" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1">e</text>
 </g>
-<g class="l" style="animation-delay:-0.81s">
+<g class="l" style="animation-delay:-0.81s,0.45s">
 <text x="508.3" y="112.8" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">n</text>
 <text x="507.0" y="111.5" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">n</text>
 <text x="505.7" y="110.2" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">n</text>
@@ -102,7 +102,7 @@
 <text x="500.5" y="105" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#e6edf3">n</text>
 <text x="499.5" y="104" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1">n</text>
 </g>
-<g class="l" style="animation-delay:-0.99s">
+<g class="l" style="animation-delay:-0.99s,0.55s">
 <text x="602.3" y="112.8" font-size="80" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#14501f">S</text>
 <text x="601.0" y="111.5" font-size="80" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#14501f">S</text>
 <text x="599.7" y="110.2" font-size="80" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#14501f">S</text>
@@ -112,7 +112,7 @@
 <text class="a" x="594.5" y="105" font-size="80" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#39d353">S</text>
 <text x="593.5" y="104" font-size="80" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1">S</text>
 </g>
-<g class="l" style="animation-delay:-1.08s">
+<g class="l" style="animation-delay:-1.08s,0.60s">
 <text x="649.3" y="112.8" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">e</text>
 <text x="648.0" y="111.5" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">e</text>
 <text x="646.7" y="110.2" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">e</text>
@@ -122,7 +122,7 @@
 <text x="641.5" y="105" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#e6edf3">e</text>
 <text x="640.5" y="104" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1">e</text>
 </g>
-<g class="l" style="animation-delay:-1.17s">
+<g class="l" style="animation-delay:-1.17s,0.65s">
 <text x="696.3" y="112.8" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">h</text>
 <text x="695.0" y="111.5" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">h</text>
 <text x="693.7" y="110.2" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">h</text>
@@ -132,7 +132,7 @@
 <text x="688.5" y="105" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#e6edf3">h</text>
 <text x="687.5" y="104" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1">h</text>
 </g>
-<g class="l" style="animation-delay:-1.26s">
+<g class="l" style="animation-delay:-1.26s,0.70s">
 <text x="743.3" y="112.8" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">l</text>
 <text x="742.0" y="111.5" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">l</text>
 <text x="740.7" y="110.2" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">l</text>
@@ -142,7 +142,7 @@
 <text x="735.5" y="105" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#e6edf3">l</text>
 <text x="734.5" y="104" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1">l</text>
 </g>
-<g class="l" style="animation-delay:-1.35s">
+<g class="l" style="animation-delay:-1.35s,0.75s">
 <text x="790.3" y="112.8" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">i</text>
 <text x="789.0" y="111.5" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">i</text>
 <text x="787.7" y="110.2" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#3b434d">i</text>
@@ -152,9 +152,9 @@
 <text x="782.5" y="105" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="#e6edf3">i</text>
 <text x="781.5" y="104" font-size="76" font-family="'Fira Code','JetBrains Mono','DejaVu Sans Mono',Consolas,monospace" font-weight="800" text-anchor="middle" fill="none" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1">i</text>
 </g>
-<text x="270.0" y="168" font-size="17" font-family="'Fira Code','DejaVu Sans Mono',Consolas,monospace" text-anchor="middle" letter-spacing="4" fill="#8b949e">Engineer</text>
-<text x="430.0" y="168" font-size="17" font-family="'Fira Code','DejaVu Sans Mono',Consolas,monospace" text-anchor="middle" letter-spacing="4" fill="#8b949e">Gamer</text>
-<text x="590.0" y="168" font-size="17" font-family="'Fira Code','DejaVu Sans Mono',Consolas,monospace" text-anchor="middle" letter-spacing="4" fill="#8b949e">Hacker</text>
-<text x="350.0" y="168" font-size="17" font-family="'Fira Code','DejaVu Sans Mono',Consolas,monospace" text-anchor="middle" letter-spacing="4" fill="#39d353">/</text>
-<text x="510.0" y="168" font-size="17" font-family="'Fira Code','DejaVu Sans Mono',Consolas,monospace" text-anchor="middle" letter-spacing="4" fill="#39d353">/</text>
+<text class="f" x="270.0" y="168" font-size="17" font-family="'Fira Code','DejaVu Sans Mono',Consolas,monospace" text-anchor="middle" letter-spacing="4" fill="#8b949e">Engineer</text>
+<text class="f" x="430.0" y="168" font-size="17" font-family="'Fira Code','DejaVu Sans Mono',Consolas,monospace" text-anchor="middle" letter-spacing="4" fill="#8b949e">Gamer</text>
+<text class="f" x="590.0" y="168" font-size="17" font-family="'Fira Code','DejaVu Sans Mono',Consolas,monospace" text-anchor="middle" letter-spacing="4" fill="#8b949e">Hacker</text>
+<text class="f" x="350.0" y="168" font-size="17" font-family="'Fira Code','DejaVu Sans Mono',Consolas,monospace" text-anchor="middle" letter-spacing="4" fill="#39d353">/</text>
+<text class="f" x="510.0" y="168" font-size="17" font-family="'Fira Code','DejaVu Sans Mono',Consolas,monospace" text-anchor="middle" letter-spacing="4" fill="#39d353">/</text>
 </svg>

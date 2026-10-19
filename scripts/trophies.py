@@ -61,13 +61,14 @@ items = [
 CW, CH, GAP = 128, 150, 12
 W = len(items) * CW + (len(items) - 1) * GAP
 mono = "font-family=\"'Fira Code','DejaVu Sans Mono',Consolas,monospace\""
-out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{CH}" viewBox="0 0 {W} {CH}" role="img" aria-label="GitHub trophies">']
+out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{CH}" viewBox="0 0 {W} {CH}" role="img" aria-label="GitHub trophies">',
+       '<style>.c{animation:rise .6s ease-out both}@keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:translateY(0)}}</style>']
 for i, (title, val, th) in enumerate(items):
     rk = rank(val, th)
     col = COLORS[rk]
     x = i * (CW + GAP)
     cx = x + CW / 2
-    out.append(f'<g transform="translate({x},0)">')
+    out.append(f'<g transform="translate({x},0)"><g class="c" style="animation-delay:{i*0.12:.2f}s">')
     out.append(f'<rect x="0.5" y="0.5" width="{CW-1}" height="{CH-1}" rx="10" fill="#0d1117" stroke="#30363d"/>')
     out.append(f'<rect x="0.5" y="0.5" width="{CW-1}" height="4" rx="2" fill="{col}" opacity="0.9"/>')
     # trophy icon (48x48 box centred)
@@ -80,7 +81,7 @@ for i, (title, val, th) in enumerate(items):
     out.append(f'<text x="{CW/2}" y="92" text-anchor="middle" font-size="12" fill="#c9d1d9" font-weight="700" {mono}>{title}</text>')
     out.append(f'<text x="{CW/2}" y="118" text-anchor="middle" font-size="22" fill="{col}" font-weight="800" {mono}>{val}</text>')
     out.append(f'<text x="{CW/2}" y="137" text-anchor="middle" font-size="10" fill="#6e7681" letter-spacing="2" {mono}>RANK {rk}</text>')
-    out.append('</g>')
+    out.append('</g></g>')
 out.append('</svg>')
 os.makedirs("assets", exist_ok=True)
 open("assets/trophies.svg", "w").write("\n".join(out))
