@@ -88,7 +88,7 @@ $ git status
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Blhasn-Sehli&theme=matrix&no-bg=true&no-frame=true&row=1&column=7&margin-w=12&margin-h=8" alt="GitHub trophies"/>
+<img src="./assets/trophies.svg" alt="GitHub trophies"/>
 
 </div>
 

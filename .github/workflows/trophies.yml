@@ -1,0 +1,32 @@
+name: Update-Trophies
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - scripts/trophies.py
+      - .github/workflows/trophies.yml
+
+permissions:
+  contents: write
+
+jobs:
+  trophies:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate trophies.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python3 scripts/trophies.py
+      - name: Commit & push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/trophies.svg
+          git diff --cached --quiet || git commit -m "chore: update trophies"
+          git pull --rebase origin main
+          git push
