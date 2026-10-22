@@ -21,7 +21,7 @@
 <rect x="0.5" y="0.5" width="127" height="4" rx="2" fill="#ffd740" opacity="0.9"/>
 <g transform="translate(40.0,16)" fill="#ffd740"><path d="M12 4h24v14c0 7-5 12-12 12S12 25 12 18z"/><path d="M12 8H4v4c0 5 3 8 8 9M36 8h8v4c0 5-3 8-8 9" fill="none" stroke="#ffd740" stroke-width="3" stroke-linecap="round"/><rect x="21" y="30" width="6" height="8"/><rect x="14" y="38" width="20" height="5" rx="2"/><text x="24" y="22" text-anchor="middle" font-size="13" font-weight="800" fill="#0d1117" font-family="'Fira Code','DejaVu Sans Mono',Consolas,monospace">S</text></g>
 <text x="64.0" y="92" text-anchor="middle" font-size="12" fill="#c9d1d9" font-weight="700" font-family="'Fira Code','DejaVu Sans Mono',Consolas,monospace">Followers</text>
-<text x="64.0" y="118" text-anchor="middle" font-size="22" fill="#ffd740" font-weight="800" font-family="'Fira Code','DejaVu Sans Mono',Consolas,monospace">100</text>
+<text x="64.0" y="118" text-anchor="middle" font-size="22" fill="#ffd740" font-weight="800" font-family="'Fira Code','DejaVu Sans Mono',Consolas,monospace">101</text>
 <text x="64.0" y="137" text-anchor="middle" font-size="10" fill="#6e7681" letter-spacing="2" font-family="'Fira Code','DejaVu Sans Mono',Consolas,monospace">RANK S</text>
 </g></g>
 <g transform="translate(420,0)"><g class="c" style="animation-delay:0.36s">
