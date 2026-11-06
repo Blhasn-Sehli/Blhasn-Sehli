@@ -61,7 +61,7 @@ $ ls ~/oss
 | --- | --- | --- |
 | **[repo-interview](https://github.com/Blhasn-Sehli/repo-interview)** | Interviews you about your own repo or PR diff. Every question is verified to cite real code. CLI, GitHub Action and MCP server; runs on local models (Ollama). | [![npm](https://img.shields.io/npm/v/repo-interview?style=flat-square&color=39d353&labelColor=0d1117)](https://www.npmjs.com/package/repo-interview) · [site](https://blhasn-sehli.github.io/repo-interview/) |
 | **[mpkcn](https://github.com/Blhasn-Sehli/mpkcn)** | Terminal-style React UI kit, shadcn-style: 24 components you copy into your project with one command. Next.js docs with a live gallery. | [![npm](https://img.shields.io/npm/v/mpkcn?style=flat-square&color=39d353&labelColor=0d1117)](https://www.npmjs.com/package/mpkcn) · [gallery](https://blhasn-sehli.github.io/mpkcn/components/) |
-| **[skill-lock](https://github.com/Blhasn-Sehli/skill-lock)** | Lockfile for AI agent skills: pins SKILL.md folders by content hash and fails CI when one changes. | [repo](https://github.com/Blhasn-Sehli/skill-lock) |
+| **[skill-lock](https://github.com/Blhasn-Sehli/skill-lock)** | Lockfile for AI agent skills: pins SKILL.md folders by content hash and fails CI when one changes. | [![npm](https://img.shields.io/npm/v/@mpkk/skill-lock?style=flat-square&color=39d353&labelColor=0d1117)](https://www.npmjs.com/package/@mpkk/skill-lock) · [repo](https://github.com/Blhasn-Sehli/skill-lock) |
 
 ### 🧰 ~/Stack
 
